@@ -5,8 +5,8 @@
 // Licensed under the MIT License.
 //
 
-#include "../External/Common/Carthage.xcconfig"
-#include "../External/Common/Common.xcconfig"
+#include "./Carthage/Checkouts/xcconfigs/Common/Carthage.xcconfig"
+#include "./Carthage/Checkouts/xcconfigs/Common/Common.xcconfig"
 
 // MARK: Version
 

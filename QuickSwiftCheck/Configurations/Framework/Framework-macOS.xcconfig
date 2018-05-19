@@ -6,4 +6,4 @@
 //
 
 #include "../Framework/Framework-Base.xcconfig"
-#include "../External/Platforms/macOS.xcconfig"
+#include "./Carthage/Checkouts/xcconfigs/Platforms/macOS.xcconfig"

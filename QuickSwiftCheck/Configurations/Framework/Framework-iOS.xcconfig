@@ -6,4 +6,4 @@
 //
 
 #include "../Framework/Framework-Base.xcconfig"
-#include "../External/Platforms/iOS.xcconfig"
+#include "./Carthage/Checkouts/xcconfigs/Platforms/iOS.xcconfig"

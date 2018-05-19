@@ -5,7 +5,7 @@
 // Licensed under the MIT License.
 //
 
-#include "../External/Targets/Framework.xcconfig"
+#include "./Carthage/Checkouts/xcconfigs/Targets/Framework.xcconfig"
 
 // MARK: Bundle
 

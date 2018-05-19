@@ -6,4 +6,4 @@
 //
 
 #include "../Framework/Framework-Base.xcconfig"
-#include "../External/Platforms/tvOS.xcconfig"
+#include "./Carthage/Checkouts/xcconfigs/Platforms/tvOS.xcconfig"

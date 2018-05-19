@@ -6,4 +6,4 @@
 //
 
 #include "../Common/Common-Base.xcconfig"
-#include "../External/Configurations/Release.xcconfig"
+#include "./Carthage/Checkouts/xcconfigs/Configurations/Release.xcconfig"
