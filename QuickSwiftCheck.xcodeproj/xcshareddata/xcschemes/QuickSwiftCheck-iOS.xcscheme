@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3A5222311F13E02A005D985A"
-               BuildableName = ".framework"
+               BuildableName = "QuickSwiftCheck.framework"
                BlueprintName = "QuickSwiftCheck-iOS"
                ReferencedContainer = "container:QuickSwiftCheck.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3A5222311F13E02A005D985A"
-            BuildableName = ".framework"
+            BuildableName = "QuickSwiftCheck.framework"
             BlueprintName = "QuickSwiftCheck-iOS"
             ReferencedContainer = "container:QuickSwiftCheck.xcodeproj">
          </BuildableReference>
@@ -55,7 +55,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3A5222311F13E02A005D985A"
-            BuildableName = ".framework"
+            BuildableName = "QuickSwiftCheck.framework"
             BlueprintName = "QuickSwiftCheck-iOS"
             ReferencedContainer = "container:QuickSwiftCheck.xcodeproj">
          </BuildableReference>
@@ -73,7 +73,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3A5222311F13E02A005D985A"
-            BuildableName = ".framework"
+            BuildableName = "QuickSwiftCheck.framework"
             BlueprintName = "QuickSwiftCheck-iOS"
             ReferencedContainer = "container:QuickSwiftCheck.xcodeproj">
          </BuildableReference>
